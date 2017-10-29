@@ -57,3 +57,9 @@ Você pode ler mais sobre git e entender mais sobre controles de versão, nesses
   * <a href="http://tableless.com.br/iniciando-no-git-parte-1/" target="_blank">Iniciando com GIT &#8211; Parte 1</a> 
   * <a href="http://tableless.com.br/iniciando-no-git-parte-2/" target="_blank">Iniciando com GIT &#8211; Parte 2</a> 
   * <a href="http://tableless.com.br/git-com-interface-grafica/" target="_blank">Git com Interface Gráfica</a>
+  * <a href="http://marklodato.github.io/visual-git-guide/index-en.html" target="_blank">Uma Referência Visual Git</a>
+  * <a href="https://git-scm.com/" target="_blank">Site oficial Git</a>
+  * <a href="https://git-scm.com/doc" target="_blank">Documentation</a>
+  * <a href="https://git-scm.com/downloads" target="_blank">Downloads</a>
+  * <a href="https://git-scm.com/about" target="_blank">About</a>
+  * <a href="https://git-scm.com/community" target="_blank">Community</a>
