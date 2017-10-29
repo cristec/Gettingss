@@ -8,7 +8,6 @@ Agora temos algumas modificações no branch new\_menu, e podemos trabalhar ness
 
 É claro que não perdemos o menu, ele está apenas no branch new_menu. Quando retornarmos a ele, voltará. Agora altere o título do site, incluindo o h1, veja:
 
-<pre class="lang-html">&lt;!DOCTYPE html&gt;
 
 
 # Gettingss
