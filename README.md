@@ -1,3 +1,16 @@
+Após criar o menu, certifique-se de estar no branch new_menu e faça o commit, conforme a figura a seguir.
+
+<img src="http://tableless.com.br/uploads/2015/09/new_menu_commit.png" alt="new_menu_commit" width="716" height="536" class="alignleft size-full wp-image-51254" />
+
+Agora temos algumas modificações no branch new\_menu, e podemos trabalhar nesse branch por quanto tempo for necessário, já que o master está intacto. Aqui temos uma funcionalidade interessante, que se destaca em relação as outras ferramentas de versionamento. Suponha que, no meio do seu desenvolvimento do menu, surge a necessidade de resolver um bug crítico no master, algo como &#8220;está faltando o h1 no título do seu site&#8221;&#8230;. Ou seja, estamos no branch new\_menu e precisamos alterar o master. Para isso, use o comando `git checkout master`. Ao fazer isso, retornamos ao master e aquele menu que criamos não está mais presente, conforme a figura a seguir.
+
+<img src="http://tableless.com.br/uploads/2015/09/back_to_master.png" alt="back_to_master" width="624" height="686" class="alignleft size-full wp-image-51255" />
+
+É claro que não perdemos o menu, ele está apenas no branch new_menu. Quando retornarmos a ele, voltará. Agora altere o título do site, incluindo o h1, veja:
+
+<pre class="lang-html">&lt;!DOCTYPE html&gt;
+
+
 # Gettingss
 
 Após alterar, faça commit e o push! Veja:
